@@ -17,3 +17,7 @@ Full-Stack developer and fitness enthusiast 🥑
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alexander-alegre&icon=0&color=3)](https://visitcount.itsvg.in)
+
+---
+
+![Alt text](https://raw.githubusercontent.com/alexander-alegre/alexander-alegre/output/snake.svg "snake")
