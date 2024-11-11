@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack developer and fitness enthusiast 🥑
+I'm Alexander Alegre (Alex), a full-stack engineer with over a decade of experience building robust, scalable applications. I’m fluent in a range of languages and frameworks, including Go, JavaScript, PHP, Python, and TypeScript, and have hands-on experience with AWS, DigitalOcean, and other cloud services to ensure high-performance infrastructure. I enjoy crafting efficient and engaging user experiences, whether working with front-end tools like React and Angular or back-end frameworks like Flask, Laravel, Iris and NextJS. My GitHub reflects my passion for open-source and continual learning, and I’m always exploring new technologies to refine my skills and drive impactful projects forward.
 
 
 ## 🌐 Socials:
